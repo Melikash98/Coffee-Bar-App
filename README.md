@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-<h1 align="left"> # Coffee-Bar-App</h1>
+<h1 align="left"> Coffee-Bar-App</h1>
 
 ##
 <p align="left" width="100%">
