@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-<h1 align="left"> <img src="https://raw.githubusercontent.com/Melikash98/Coffee-Bar-App/main/logoApp.png" alt="Logo" width="80px"   height="80px" style="margin-right: 10px;padding-top: 6rem;" /> Coffee-Bar-App</h1>
+<h1 align="left"> <img src="logoApp.png" alt="Logo" width="80px"   height="80px" style="margin-right: 10px;padding-top: 6rem;" /> Coffee-Bar-App</h1>
 
 ##
 <p align="left" width="100%">
